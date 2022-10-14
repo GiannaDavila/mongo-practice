@@ -1,0 +1,1 @@
+export const uri = "mongodb+srv://Mongo9124db:Mongo9124db@bocacode.7bj93wd.mongodb.net/test"

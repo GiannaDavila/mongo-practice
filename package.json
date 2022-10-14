@@ -1,0 +1,24 @@
+{
+  "name": "mongo-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongo-practice.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiannaDavila/mongo-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiannaDavila/mongo-practice/issues"
+  },
+  "homepage": "https://github.com/GiannaDavila/mongo-practice#readme",
+  "dependencies": {
+    "mongodb": "^4.10.0"
+  }
+}
